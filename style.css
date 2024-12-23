@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+  white-space: normal !important;
+}
+body{
+
+  font-family: "Nunito Sans", serif;
+  line-height: 1.20;
+  
+}
+a:hover{
+  color: #846143 !important;
+}
+.t-logo{
+
+}
+.header-button{
+  border-color: #D9C5A2;
+  background-color: #D9C5A2;
+}
+.header-button:hover{
+  background-color: #D9C5A2;
+  border-color: #846143;
+}
+.accent-text{
+  color: #846143 !important;
+}
+.discont-icon{
+  background-color: #846143 !important;
+}
+.cli-svg svg{
+  fill: #D9C5A2 !important;
+  color: #D9C5A2 !important ;
+}
